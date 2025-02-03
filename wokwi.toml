@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Display_numerico_na_matriz_de_LEDs_INTERRUPCAO.uf2'
+elf = 'build/Display_numerico_na_matriz_de_LEDs_INTERRUPCAO.elf'
